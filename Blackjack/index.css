@@ -1,0 +1,36 @@
+
+h1{
+    color: rgb(56, 119, 201);
+}
+body {
+    color: rgb(143, 230, 211);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(40, 40, 109);
+    background-size:cover;
+    text-align: center;
+    font-weight: bold;
+}
+#message-el {
+    font-style: italic;
+}
+/* 
+3. Style the button according to the provided design
+text color - #016f32
+width      - 150px
+background - goldenrod
+ */
+button{
+    color: #7febb0;
+    font-style: italic;
+    width: 150px;
+    background-color: rgb(162, 179, 17);
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;/* 
+    this gives space between two buttons
+     */
+     margin-top: 2px;
+}
+
+
